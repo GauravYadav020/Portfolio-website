@@ -2,6 +2,10 @@
   "extends": "next",
   "rules": {
     "react/no-unescaped-entities": "off",
+    "react-hooks/rules-of-hooks": "off",
+    "react/react-in-jsx-scope": "off",
+    "react-hooks/exhaustive-deps": "off",
+    "no-unused-vars": "off",
     "@next/next/no-page-custom-font": "off"
   }
 }

@@ -15,7 +15,7 @@ export default function index() {
         switch (menuItem) {
             case 'Resume':
                 // Open GitHub
-                window.open('https://drive.google.com/file/d/1sKhqynXi2MWo5qneEDYHXnYzAVOqTqjD/view?usp=sharing', '_blank');
+                window.open('https://drive.google.com/file/d/1m5IumXyOUDiYPDXRSS2j66-4DFmhqoeM/view?usp=sharing', '_blank');
                 break;
             
         }
